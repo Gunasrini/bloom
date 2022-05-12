@@ -1,0 +1,28 @@
+@media screen and (min-width:320px) and (max-width:767px) {
+    .about-section {
+        padding: 20px;
+    }
+    
+    .content {
+        width: 100%;
+    }
+    
+    .image {
+        width: 100%;
+        margin-top: 30px;
+    }
+    
+    .heading-section.content {
+        padding: 20px;
+    }
+    
+    .column {
+        width: 100%;
+        margin: 0 0 30px;
+    }
+}
+
+
+@media screen and (min-width:768px) and (max-width:1023px) {
+    
+}
